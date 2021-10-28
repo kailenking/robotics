@@ -1,0 +1,8 @@
+prefix=/code/catkin_ws/src/robotics/ros_starters_ws/install
+
+Name: luqman_package
+Description: Description of luqman_package
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
