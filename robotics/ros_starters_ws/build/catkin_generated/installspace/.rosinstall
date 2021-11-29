@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /code/catkin_ws/src/robotics/ros_starters_ws/install/setup.sh
