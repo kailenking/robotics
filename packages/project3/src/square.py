@@ -56,6 +56,7 @@ def projectsquare():
     pub.publish(msg)
     sleep(1)
 
+
 if __name__ == '__main__':
     try:
      projectsquare()
