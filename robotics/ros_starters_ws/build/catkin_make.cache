@@ -1,2 +1,0 @@
-luqman_package
--DCATKIN_DEVEL_PREFIX=/code/catkin_ws/src/robotics/ros_starters_ws/devel -DCMAKE_INSTALL_PREFIX=/code/catkin_ws/src/robotics/ros_starters_ws/install -G Unix Makefiles
